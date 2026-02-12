@@ -1,4 +1,3 @@
-console.log("APP.JS VERSION A - LOADED");
 
 // Elements
 const envelope = document.getElementById("envelope-container");
@@ -45,4 +44,5 @@ yesBtn.addEventListener("click", () => {
 
   finalText.style.display = "block";
 });
+
 
